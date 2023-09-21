@@ -1,12 +1,12 @@
 ## Olá, eu sou a Anna Lyvia Medeiros!
 
-Aprendiz de desenvolvimento com foco maior em Java e Spring.
+Estágiaria de desenvolvimento de software com foco maior em Python para análise de dados, Java e integrações com IA.
 
 ### Sobre mim:
 
 - :earth_americas: De João Pessoa - PB.
 - :books: Graduanda em Sistemas para Internet.
-- :office: Atualmente trabalhando na [Dock Tech](https://dock.tech/).
+- :office: Atualmente trabalhando na [Dataprev](https://www.dataprev.gov.br/).
 - :guitar: Apaixonada por música.
 - :video_game: Apaixonada por jogos.
 
